@@ -1,51 +1,70 @@
-📊 Superstore Sales Dashboard – Power BI
-This project presents a dynamic Power BI dashboard built using Superstore sales data. The goal was to uncover business insights and tell a compelling data-driven story using visualizations.
+# 📊 Superstore Sales Dashboard – Power BI
 
-📁 Contents
-✅ superstoreDay2.pbix – Interactive Power BI dashboard
-✅ Dashboard.png – Screenshot of the final dashboard
-✅ README.md – Project overview and explanation
-✅ Key Metrics & Visuals: Sales, Profit, Quantity, Regional & Segment Analysis
+This project presents a dynamic Power BI dashboard built using **Superstore sales data**. The goal was to uncover business insights and tell a compelling data-driven story using visualizations.
 
-💡 What You'll Learn
-📈 How to create interactive dashboards in Power BI
+---
 
-📊 How to use visual storytelling techniques with charts, KPIs, and maps
+## 📁 Contents
 
-🔍 Techniques to analyze:
+- ✅ `superstoreDay2.pbix` – Interactive Power BI dashboard  
+- ✅ `Dashboard.png` – Screenshot of the final dashboard  
+- ✅ `README.md` – Project overview and explanation  
+- ✅ Key Metrics & Visuals: Sales, Profit, Quantity, Regional & Segment Analysis
 
-Segment performance
+---
 
-Category/sub-category trends
+## 💡 What You'll Learn
 
-Shipping methods
+- ✅ How to create interactive dashboards in Power BI  
+- ✅ How to use visual storytelling techniques with charts, KPIs, and maps  
+- ✅ Techniques to analyze:
+  - Segment performance
+  - Category/sub-category trends
+  - Shipping methods
+  - Region & state-wise sales  
+- ✅ How to use Power BI features like:
+  - DAX formulas
+  - Power Query Editor
+  - Slicers & Filters
 
-Region & state-wise sales
+---
 
-💡 How to use Power BI features like:
+## 🛠 Tools Used
 
-DAX for calculated metrics
+| Tool          | Purpose                           |
+|---------------|------------------------------------|
+| Power BI      | Dashboard creation & storytelling |
+| Power Query   | Data cleaning & transformation     |
+| DAX           | Custom metrics & KPIs              |
+| Superstore Dataset | Sales data source (CSV format) |
 
-Power Query for data cleaning
+---
 
-Slicers & filters for interactivity
+## 📈 Key Insights
 
-📊 Dashboard Insights
-🏆 Top Region: East (33.37% of total orders)
+- 🏆 **East Region**: Highest orders (33.37%)  
+- 💰 **Top Segment**: Consumer (48.09%)  
+- 🛒 **Best Sellers**: Phones, Chairs, Binders  
+- 🚚 **Shipping Mode**: Standard Class most used  
+- 💳 **Most Used Payment Mode**: COD  
+- 🗺️ **Geo Map**: State-wise sales & profit visualized
 
-💰 Most Profitable Segment: Consumer (48.09%)
+---
 
-📦 Top Sub-Categories: Phones, Chairs, Binders
+## 📥 How to View the Dashboard
 
-🚚 Preferred Shipping Mode: Standard Class
+1. Download the `.pbix` file  
+2. Open it in **Power BI Desktop**  
+3. Explore slicers, charts, and map interactivity
 
-💳 Payment Mode: Highest via COD
+---
 
-🌍 Geo Insights: Sales and profits visualized by U.S. states
+## 🚀 Submission Details
 
-🛠 Tools Used
-Tool	Purpose
-Power BI	Dashboard creation & storytelling
-Power Query	Data cleaning & transformation
-DAX	Custom metrics & KPIs
-Superstore Dataset	Sales data source (CSV form
+- 📁 GitHub Repository: *[Insert your repo link here]*  
+- 🎯 Internship Task: **Data Visualization & Storytelling – Task 2**  
+- 🛠 Tool Used: Power BI
+
+---
+
+> ✅ Tip: On GitHub, click the `Preview` tab to see how your README will look.
